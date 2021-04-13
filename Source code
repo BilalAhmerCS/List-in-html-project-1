@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Food recipe</title>
+</head>
+<body>
+<h1>Pakistani Tea</h1><!--heading-->
+<p>This <strong>tea</strong> contain the following ingrediants:
+<ul><!--unordered list-->
+<li>1 cup (250 ml) Milk.</li><!--in form of bullets-->
+<li>2 teaspoons Tea Powder.</li>
+<li>1/4 cup (approx. 60 ml) Water.</li>
+<li>3 teaspoons Sugar.</li>
+</ul>
+<p>Steps to make <strong>tea:</strong></p>
+<ol><!--ordered list-->
+<li>Boil water in a saucepan.</li><!--in form of numbers-->
+<li>Add <em>sugar and tea powder</em> in it and boil it for 3-4 minutes on medium flame.</li>
+<li>Add <em>milk</em> and boil it over medium flame for 6-7 minutes or until bubble starts to rise. You will see the change in color of the tea from milky shade to brown shade when it is ready.</li>
+<li>Turn off the <em>gas</em> and strain tea in cups.</li>
+</ol>
+</body>
+</html>
